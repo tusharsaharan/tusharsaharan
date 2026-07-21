@@ -173,30 +173,26 @@ const TusharSaharan = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharsaharan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tusharsaharan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharsaharan&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=tusharsaharan&theme=dark" width="49%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsaharan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusharsaharan&theme=github_dark" width="49%" alt="Languages Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusharsaharan&theme=github_dark" width="49%" alt="Commits Chart" />
 </p>
 
 ### 🔥 3D Contribution Graph
+*(Generated daily via GitHub Action)*
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=tusharsaharan&theme=github-dark" width="95%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D Contribution Graph" />
 </p>
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsaharan&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%" alt="Activity Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharsaharan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusharsaharan&theme=github_dark" width="95%" alt="Productive Time" />
 </p>
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](https://github.com/tusharsaharan)
