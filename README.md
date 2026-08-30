@@ -10,9 +10,10 @@ Currently deep in **agentic AI**, retrieval, and interfaces that feel alive.
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C2F42?style=flat-square&logo=vercel&logoColor=A9C7DD&labelColor=0D1620)](https://tusharsaharan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2F42?style=flat-square&logo=linkedin&logoColor=A9C7DD&labelColor=0D1620)](https://linkedin.com/in/tusharsaharan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1C2F42?style=flat-square&logo=leetcode&logoColor=A9C7DD&labelColor=0D1620)](https://leetcode.com/u/tusharsaharan)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1C2F42?style=flat-square&logo=codeforces&logoColor=A9C7DD&labelColor=0D1620)](https://codeforces.com/profile/tusharsaharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2F42?style=flat-square&logo=linkedin&logoColor=A9C7DD&labelColor=0D1620)](https://linkedin.com/in/tushar-saharan-2a0517315)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1C2F42?style=flat-square&logo=leetcode&logoColor=A9C7DD&labelColor=0D1620)](https://leetcode.com/u/tushar__saharan/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1C2F42?style=flat-square&logo=codeforces&logoColor=A9C7DD&labelColor=0D1620)](https://codeforces.com/profile/kghjhejhjehjwjj)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1C2F42?style=flat-square&logo=codechef&logoColor=A9C7DD&labelColor=0D1620)](https://www.codechef.com/users/tusha_rr)
 [![GitHub](https://img.shields.io/badge/GitHub-1C2F42?style=flat-square&logo=github&logoColor=A9C7DD&labelColor=0D1620)](https://github.com/tusharsaharan)
 
 <img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-divider.svg" alt="" width="100%" />
