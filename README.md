@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-header.svg" alt="Tushar Saharan — Full-Stack Developer and AI Engineer" width="100%" />
+<img src="./assets/alpine-header.svg" alt="Tushar Saharan — Full-Stack Developer and AI Engineer" width="100%" />
 
 <br/>
 
@@ -16,7 +16,7 @@ Currently deep in **agentic AI**, retrieval, and interfaces that feel alive.
 [![CodeChef](https://img.shields.io/badge/CodeChef-1C2F42?style=flat-square&logo=codechef&logoColor=A9C7DD&labelColor=0D1620)](https://www.codechef.com/users/tusha_rr)
 [![GitHub](https://img.shields.io/badge/GitHub-1C2F42?style=flat-square&logo=github&logoColor=A9C7DD&labelColor=0D1620)](https://github.com/tusharsaharan)
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-divider.svg" alt="" width="100%" />
+<img src="./assets/alpine-divider.svg" alt="" width="100%" />
 
 ### Toolkit
 
@@ -48,15 +48,15 @@ Currently deep in **agentic AI**, retrieval, and interfaces that feel alive.
 ![Docker](https://img.shields.io/badge/Docker-1C2F42?style=flat-square&logo=docker&logoColor=A9C7DD&labelColor=0D1620)
 ![Git](https://img.shields.io/badge/Git-1C2F42?style=flat-square&logo=git&logoColor=A9C7DD&labelColor=0D1620)
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-divider.svg" alt="" width="100%" />
+<img src="./assets/alpine-divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/snow-terminal.svg" alt="Snowy terminal: whoami, hobbies, skills and featured projects" width="100%" />
+<img src="./assets/snow-terminal.svg" alt="Snowy terminal: whoami, hobbies, skills and featured projects" width="100%" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=tusharsaharan&style=flat-square&color=1C2F42&label=PROFILE%20VIEWS)](https://github.com/tusharsaharan)
 [![Followers](https://img.shields.io/github/followers/tusharsaharan?style=flat-square&logo=github&logoColor=A9C7DD&color=1C2F42&labelColor=0D1620&label=Followers)](https://github.com/tusharsaharan?tab=followers)
 [![Stars](https://img.shields.io/github/stars/tusharsaharan?style=flat-square&logo=github&logoColor=A9C7DD&color=1C2F42&labelColor=0D1620&label=Stars)](https://github.com/tusharsaharan?tab=repositories)
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-divider.svg" alt="" width="100%" />
+<img src="./assets/alpine-divider.svg" alt="" width="100%" />
 
 <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tusharsaharan&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0D1620&text_color=A9C7DD&icon_color=4E8FBF&title_color=A9C7DD" alt="GitHub stats" />
 <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tusharsaharan&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0D1620&text_color=A9C7DD&title_color=A9C7DD" alt="Top languages" />
@@ -65,6 +65,6 @@ Currently deep in **agentic AI**, retrieval, and interfaces that feel alive.
 
 <sub>Open to collaborating on AI-native products. Reach out anytime.</sub>
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-footer.svg" alt="" width="100%" />
+<img src="./assets/alpine-footer.svg" alt="" width="100%" />
 
 </div>
