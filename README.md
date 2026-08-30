@@ -49,7 +49,7 @@ Currently deep in **agentic AI**, retrieval, and interfaces that feel alive.
 
 <img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/alpine-divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/snow-terminal.svg" alt="Snowy terminal: whoami, profile views, skills and featured projects" width="100%" />
+<img src="https://raw.githubusercontent.com/tusharsaharan/tusharsaharan/main/assets/snow-terminal.svg" alt="Snowy terminal: whoami, hobbies, skills and featured projects" width="100%" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=tusharsaharan&style=flat-square&color=1C2F42&label=PROFILE%20VIEWS)](https://github.com/tusharsaharan)
 [![Followers](https://img.shields.io/github/followers/tusharsaharan?style=flat-square&logo=github&logoColor=A9C7DD&color=1C2F42&labelColor=0D1620&label=Followers)](https://github.com/tusharsaharan?tab=followers)
